@@ -115,3 +115,13 @@ footer {
         font-size: 1rem;
     }
 }
+
+
+/* Add a CSS class to toggle the display
+.contact-info-hidden {
+    display: none;
+  }
+  
+  .contact-info-visible {
+    display: block;
+  } */
